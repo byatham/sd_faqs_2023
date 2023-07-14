@@ -1,0 +1,19 @@
+
+
+1. can we override private and static methods?
+
+No, it is not possible.
+
+2. what is the difference between java 7 interface and java 8 interface?
+
+in java7 interface we can declare only abstarct methods. BUt in java 8 interfaces we can declare  default methods and static methods.
+3. what is final,finally and finalize?
+
+Final: (Keyword ) is key word and it is used to declare variable as final, it cannot be modified.it can be used to declare final class which wont allow inheritance.
+      Final isd used final method which cannot be overridden.
+
+Finally: (Block ) It is a block of code. when handling in excerption handling if you want to execute some code final stage then we can use finally block.
+
+Finalize: (Method ) is method which is invoked by garbage collector.
+
+to invoke finalize method use System.gc();

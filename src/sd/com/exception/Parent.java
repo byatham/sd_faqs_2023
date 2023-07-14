@@ -1,6 +1,7 @@
 package sd.com.exception;
 
 public class Parent {
+	public String pname="Narsaiah";
 	
 	public void m1()
 	{
