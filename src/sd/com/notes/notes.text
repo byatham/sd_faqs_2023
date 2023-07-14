@@ -22,3 +22,5 @@ to invoke finalize method use System.gc();
 
 hashcode(): used to generate unique reference number
 equals(): used to compare two objects by content
+
+to avoid duplicates in collection we have to implement proper contarct between equals() and hashcode() 
