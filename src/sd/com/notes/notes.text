@@ -17,3 +17,8 @@ Finally: (Block ) It is a block of code. when handling in excerption handling if
 Finalize: (Method ) is method which is invoked by garbage collector.
 
 to invoke finalize method use System.gc();
+
+4. what is hashcode() and equals() and its contract?
+
+hashcode(): used to generate unique reference number
+equals(): used to compare two objects by content
